@@ -1,8 +1,8 @@
 # Drop-Star
 
-[wpage]
+![wpage](https://github.com/tunahan994/drop-star/blob/main/drop-star/wpage.png?raw=true)
 
-[Theme]
+![Theme](https://github.com/tunahan994/drop-star/blob/main/drop-star/screenshot.png?raw=true)
 
 This extension for Visual Studio Code add theme titled "Drop-Star".
 
