@@ -1,0 +1,48 @@
+{
+    "name": "drop-star",
+    "displayName": "Drop-Star",
+    "description": "A color theme for VSCode",
+    "version": "0.0.1",
+    "icon": "drop-star.png",
+    "publisher": "Tunahan1896554295",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+   
+        
+    "keywords": [
+        "Dark",
+        "Theme",
+        "Drop",
+        "Star"
+    ],
+    
+    "author": {
+        "name": "Mustafa Tunahan Uçar",
+        "email": "tunahanucar_4956@protonmail.com"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tunahan994/drop-star.git"
+        
+    },
+    
+    "galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+	},
+    
+    "contributes": {
+        "themes": [
+            {
+                "label": "Drop-Star",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Drop-Star-color-theme.json"
+            }
+        ]
+    }
+}
